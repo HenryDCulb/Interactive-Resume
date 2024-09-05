@@ -1,0 +1,49 @@
+body {
+      background-image: url('https://images.squarespace-cdn.com/content/v1/5eaaa15345eb2a390d6881f6/1591426571350-E63WU7L8DFHJ6A55PXUO/rain_drops.gif?format=750w');
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-position: center; 
+p {
+    position:relative;
+    left:-500px;
+    color:white;
+}
+
+ul {
+    position:relative;
+    left:-1200px;
+    color:white;
+}
+
+#title {
+    background-color:red;
+    top: 200px;
+}
+#experience {
+    background-color:orange;
+    top: 200px;
+}
+#projects {
+    background-color:yellow;
+    top: 200px;
+}
+#skills {
+    background-color:green;
+    top: 200px;
+}
+#awards {
+    background-color:blue;
+    top: 200px;
+}
+#misc {
+    background-color:purple;
+       top: 200px;
+}
+
+#expText {
+    font-size:20px;
+}
+#projectList {
+    color:black;
+    font-size: 15px;
+}
